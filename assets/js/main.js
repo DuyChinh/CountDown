@@ -1,5 +1,5 @@
 function countdown() {
-  var targetDate = new Date("12/3/2023").getTime();
+  var targetDate = new Date("7/3/2024").getTime();
 
   var countdownInterval = setInterval(function() {
     var currentDate = new Date().getTime();
